@@ -17,7 +17,7 @@
 2. --version | -v    
 3. --box-size | -bxs 
 4. --border | -b
-5. --background | -bg : Background Color (Default: (255, 255, 255)) [Expects <number> or <number,number,number>]
-6. --foreground | -fg : Foreground Color (Default: (0, 0, 0)) [Expects <number> or <number,number,number>]
-7. --save | -s        : Saves the Code (Expects <filename>)
+5. --background | -bg : Background Color (Default: (255, 255, 255)) [Expects 'number' or 'number,number,number']
+6. --foreground | -fg : Foreground Color (Default: (0, 0, 0)) [Expects 'number' or 'number,number,number']
+7. --save | -s        : Saves the Code (Expects 'filename')
 </pre>
