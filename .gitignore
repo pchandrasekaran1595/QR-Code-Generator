@@ -1,7 +1,6 @@
-data
 __pycache__
+output
 venv
-temp.*
-*.zip
-Codes
-Files
+.vscode
+*.jpg
+*.png
